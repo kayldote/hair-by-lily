@@ -6395,9 +6395,11 @@ hr.dashed {
   margin-right: auto;
   width: 90%; */
   /* flex-wrap: wrap; */
-  width: 50%;
+  width: 70%;
   /* Adjust the width for smaller screens */
-  margin: 20px auto;
+  margin-left: 60px;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 /* Banner Home 02 */
