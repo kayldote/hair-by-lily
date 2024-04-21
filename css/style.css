@@ -6389,6 +6389,17 @@ hr.dashed {
 
 }
 
+.quote {
+  /* flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%; */
+  /* flex-wrap: wrap; */
+  width: 50%;
+  /* Adjust the width for smaller screens */
+  margin: 20px auto;
+}
+
 /* Banner Home 02 */
 .banner-02 {
   position: relative;
