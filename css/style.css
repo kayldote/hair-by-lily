@@ -2849,9 +2849,11 @@ button {
   position: relative;
   font-weight: 500;
   font-size: 16px;
-  padding: 15px 35px;
+  padding: 10px 10px;
   border-radius: 0px;
 }
+
+
 
 .btn:focus {
   -webkit-box-shadow: none;
@@ -2863,6 +2865,8 @@ button {
   background: #F2A68D;
   color: #ffffff;
 }
+
+/*  */
 
 .btn.btn-primary:hover {
   color: #ffffff;
@@ -7740,6 +7744,7 @@ Blog
   justify-content: center;
   /* margin: 20px 20px 20px 20px; */
   margin-top: 20px;
+  margin-bottom: 20px;
 
 }
 
