@@ -6393,13 +6393,39 @@ hr.dashed {
   width: 200px;
 }
 
+
+
 .logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 600px;
+  width: 80%;
 
 }
+
+
+/* Media query for phones (adjust max-width as needed) */
+@media only screen and (max-width: 768px) {
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    /* Example: smaller padding for phones */
+  }
+}
+
+/* Media query for laptops (adjust min-width as needed) */
+@media only screen and (min-width: 769px) {
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    /* Example: larger padding for laptops */
+  }
+}
+
 
 .quote {
   /* flex-wrap: wrap;
