@@ -6412,6 +6412,21 @@ hr.dashed {
   margin-right: 20px;
 }
 
+/* .italianno-regular {
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+
+q {
+  font-family: "Poiret One", sans-serif;
+  font-size: 25px;
+
+  color: #ffffff;
+
+}
+
 /* Banner Home 02 */
 .banner-02 {
   position: relative;
